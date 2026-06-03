@@ -18,7 +18,7 @@ An aspiring **Frontend & React.js Developer** based in Pune, passionate about bu
 Here are the key applications I have developed, focusing on clean folder structures and learning both Vanilla JS logic and React implementations:
 
 1. **💻 CRUD Dashboard (React):** A full dashboard featuring Create, Read, Update, and Delete operations integrated seamlessly using Axios and MockAPI.
-2. **🛍️ Myntra E-commerce Clone (HTML/CSS/JS):** A highly responsive frontend clone of Myntra with fully functional product layout, dynamic item cards, and shopping bag badge counter logic using core JavaScript.
+2. 🛍️ **Myntra E-commerce Clone (HTML/CSS/JS):** A highly responsive frontend clone of Myntra with fully functional product layout, dynamic item cards, and shopping bag badge counter logic using core JavaScript. | [👉 Live Preview](https://myntra-clone-js-sandy.vercel.app)
 3. **🌤️ Weather Insight App (JS & React):** A live weather tracking app using external APIs (wttr.in) with asynchronous fetch calls, featuring a dark mode toggle and robust error handling.
 4. **💱 Currency Converter (JS & React):** A dynamic exchange rate application featuring dynamic flag API integration and real-time dropdown synchronization.
 5. **📝 Todo Application (JS & React):** A classic task management app focused on mastering local storage persistence, state updates, and clean component structures.
