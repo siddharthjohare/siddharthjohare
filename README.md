@@ -23,7 +23,8 @@ Here are the key applications I have developed, focusing on clean folder structu
 
 1. **🛍️  Myntra E-commerce Clone - JS Version (01-myntra-clone-js):**
 Description: A highly responsive frontend clone of Myntra featuring a fully functional product layout, dynamic item cards, and a shopping bag badge counter logic built using core JavaScript DOM manipulation.
-Tech Stack: HTML5, CSS3, JavaScript (ES6+) [👉 Live Preview](https://myntra-clone-js-sandy.vercel.app)
+Tech Stack: HTML5, CSS3, JavaScript (ES6+) 
+[👉 Live Preview](https://myntra-clone-js-sandy.vercel.app)
 
 2. **🏏  Bat Ball Stump Game - JS Version ((02-bat-ball-game-js):** 
 Description: An interactive, logic-driven cricket game built to master native JavaScript condition-handling algorithms, random choice logic, and client-side storage persistence.
