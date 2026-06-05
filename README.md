@@ -77,7 +77,7 @@ Tech Stack: React.js, React Hooks, LocalStorage
 ---
 
 ### 📫 Connect with Me
-Mobile: +91 9203635737
+Mobile: +91 8109635737
 LinkedIn: linkedin.com/in/siddharth-johare
 Email: siddharth.johare45@gmail.com
 
