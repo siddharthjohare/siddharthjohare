@@ -13,24 +13,6 @@ An aspiring **Frontend & React.js Developer** based in Pune, passionate about bu
 
 ---
 
-### 📁 Repository Folder Structure
-
-I maintain a strictly organized workspace to ensure scalable code architecture. The local and remote structure is split systematically:
-
-```text
-My-Portfolio/
-├── 1-JavaScript Projects/
-│   ├── 01-myntra-clone-js/
-│   ├── 02-bat-ball-game-js/
-│   └── 03-weather-app-js/
-└── 2-React.JS Projects/
-    ├── 04-Weather-app-react/
-    ├── 05-CRUD-operations/
-    ├── 06-student-dashboard-react/
-    ├── 07-Todo-app-react/
-
----
-
 ### 🚀 My Top Featured Projects
 
 Here are the key applications I have developed, focusing on clean folder structures and learning both Vanilla JS logic and React implementations:
@@ -41,8 +23,7 @@ Here are the key applications I have developed, focusing on clean folder structu
 
 1. **🛍️  Myntra E-commerce Clone - JS Version (01-myntra-clone-js):**
 Description: A highly responsive frontend clone of Myntra featuring a fully functional product layout, dynamic item cards, and a shopping bag badge counter logic built using core JavaScript DOM manipulation.
-Tech Stack: HTML5, CSS3, JavaScript (ES6+)
-Live Demo: [👉 Live Preview](https://myntra-clone-js-sandy.vercel.app)
+Tech Stack: HTML5, CSS3, JavaScript (ES6+) [👉 Live Preview](https://myntra-clone-js-sandy.vercel.app)
 
 2. **🏏  Bat Ball Stump Game - JS Version ((02-bat-ball-game-js):** 
 Description: An interactive, logic-driven cricket game built to master native JavaScript condition-handling algorithms, random choice logic, and client-side storage persistence.
