@@ -62,8 +62,23 @@ Tech Stack: React.js, Custom State Management, CSS Layouts
 Description: A clean productivity application engineered to master controlled input states, conditional structural rendering, array manipulation methods, and local storage data synchronization.
 
 Tech Stack: React.js, React Hooks, LocalStorage
+---
+### 📁 Repository Folder Structure
 
+I maintain a strictly organized workspace to ensure scalable code architecture. The local and remote structure is split systematically:
 
+```text
+My-Portfolio/
+├── 1-JavaScript Projects/
+│   ├── 01-myntra-clone-js/
+│   ├── 02-bat-ball-game-js/
+│   └── 03-weather-app-js/
+└── 2-React.JS Projects/
+    ├── 04-Weather-app-react/
+    ├── 05-CRUD-operations/
+    ├── 06-student-dashboard-react/
+    ├── 07-Currency-converter-react/
+    └── 08-Todo-app-react/
 ---
 
 ### 📫 Connect with Me
