@@ -23,15 +23,17 @@ Here are the key applications I have developed, focusing on clean folder structu
 
 1. **🛍️  Myntra E-commerce Clone - JS Version (01-myntra-clone-js):**
 Description: A highly responsive frontend clone of Myntra featuring a fully functional product layout, dynamic item cards, and a shopping bag badge counter logic built using core JavaScript DOM manipulation.
-Tech Stack: HTML5, CSS3, JavaScript (ES6+) 
-[👉 Live Preview](https://myntra-clone-js-sandy.vercel.app)
+
+Tech Stack: HTML5, CSS3, JavaScript (ES6+) [👉 Live Preview](https://myntra-clone-js-sandy.vercel.app)
 
 2. **🏏  Bat Ball Stump Game - JS Version ((02-bat-ball-game-js):** 
 Description: An interactive, logic-driven cricket game built to master native JavaScript condition-handling algorithms, random choice logic, and client-side storage persistence.
+
 Tech Stack: HTML5, CSS3, Core JavaScript, LocalStorage
 
 3. **🌦️  Weather App - JS Version (03-weather-app-js):** 
 Description: A live weather tracking application built around handling external APIs, utilizing asynchronous network requests to fetch and format real-time environmental data.
+
 Tech Stack: HTML5, CSS3, JavaScript (Async/Await), wttr.in API
 
 
@@ -41,18 +43,22 @@ Tech Stack: HTML5, CSS3, JavaScript (Async/Await), wttr.in API
 
 04. **🌦️ Weather App - React Version  (04-Weather-app-react):**
 Description: Re-architected the vanilla JavaScript weather application into a modular, component-based React framework. Implemented optimized hooks management, robust error boundaries, and a dark mode toggle state.
+
 Tech Stack: React.js, Functional Components, Hooks (useState, useEffect)
 
 05. **💻 CRUD Operations Dashboard  (05-CRUD-operations):**
 Description: A centralized data entry management panel executing seamless Create, Read, Update, and Delete operations synced securely with a remote data network.
+
 Tech Stack: React.js, Axios, MockAPI
 
  06. **🎓 Student Dashboard  (06-student-dashboard-react):**
 Description: An administrative record tracking dashboard implementing advanced conditional state operations, structural form validation, data mapping, and custom component abstractions.
+
 Tech Stack: React.js, Custom State Management, CSS Layouts
 
  07. **📝 Todo Application (07-Todo-app-react):**
 Description: A clean productivity application engineered to master controlled input states, conditional structural rendering, array manipulation methods, and local storage data synchronization.
+
 Tech Stack: React.js, React Hooks, LocalStorage
 
 
