@@ -54,7 +54,7 @@ Tech Stack: HTML5, CSS3, JavaScript (Async/Await), wttr.in API
 
 
 
-**2- ⚛️ React.JS Projects  ( (Modern Declarative UI Architecture)):**
+**2-⚛️ React.JS Projects (Modern Declarative UI Architecture):**
 
 
 04. **🌦️ Weather App - React Version  (04-Weather-app-react):**
