@@ -62,6 +62,15 @@ Tech Stack: React.js, Custom State Management, CSS Layouts
 Description: A clean productivity application engineered to master controlled input states, conditional structural rendering, array manipulation methods, and local storage data synchronization.
 
 Tech Stack: React.js, React Hooks, LocalStorage
+
+---
+
+### 📫 Connect with Me
+- **Mobile:** +91 8109635737
+- **LinkedIn:** [linkedin.com/in/siddharth-johare](https://www.linkedin.com/in/siddharth-johare-914b5665/)
+- **Email:** siddharth.johare45@gmail.com
+
+*“Learning every day, building every day.”*
 ---
 ### 📁 Repository Folder Structure
 
@@ -80,10 +89,3 @@ My-Portfolio/
     ├── 07-Currency-converter-react/
     └── 08-Todo-app-react/
 ---
-
-### 📫 Connect with Me
-- **Mobile:** +91 8109635737
-- **LinkedIn:** [linkedin.com/in/siddharth-johare](https://www.linkedin.com/in/siddharth-johare-914b5665/)
-- **Email:** siddharth.johare45@gmail.com
-
-*“Learning every day, building every day.”*
