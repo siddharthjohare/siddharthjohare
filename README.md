@@ -1,6 +1,7 @@
 # Hi, I'm Siddharth Johare! 👋
 
-An aspiring **Frontend & React.js Developer** based in Pune, passionate about building clean, responsive, and user-friendly web applications. I love converting complex logic into simple, interactive user interfaces and switching gears into the IT industry with strong core skills.
+An aspiring **Frontend & React.js Developer** based in Pune, passionate about building clean, responsive, and user-friendly web applications. I love converting complex logic into simple, interactive user interfaces and switching gears into the IT industry
+with strong core skills.
 
 ---
 
