@@ -40,45 +40,34 @@ Live Demo: 👉 Live Preview
 
 🏏 02. Bat Ball Stump Game (02-bat-ball-game-js)
 Description: An interactive, logic-driven cricket game built to master native JavaScript condition-handling algorithms, random choice logic, and client-side storage persistence.
-
 Tech Stack: HTML5, CSS3, Core JavaScript, LocalStorage
 
 🌦️ 03. Weather App - JS Version (03-weather-app-js)
 Description: A live weather tracking application built around handling external APIs, utilizing asynchronous network requests to fetch and format real-time environmental data.
-
 Tech Stack: HTML5, CSS3, JavaScript (Async/Await), wttr.in API
 
+
 ⚛️ 2-React.JS Projects (Modern Declarative UI Architecture)
+
 🌦️ 04. Weather App - React Version (04-Weather-app-react)
 Description: Re-architected the vanilla JavaScript weather application into a modular, component-based React framework. Implemented optimized hooks management, robust error boundaries, and a dark mode toggle state.
-
 Tech Stack: React.js, Functional Components, Hooks (useState, useEffect)
 
 💻 05. CRUD Operations Dashboard (05-CRUD-operations)
 Description: A centralized data entry management panel executing seamless Create, Read, Update, and Delete operations synced securely with a remote data network.
-
 Tech Stack: React.js, Axios, MockAPI
 
 🎓 06. Student Dashboard (06-student-dashboard-react)
 Description: An administrative record tracking dashboard implementing advanced conditional state operations, structural form validation, data mapping, and custom component abstractions.
-
 Tech Stack: React.js, Custom State Management, CSS Layouts
 
-💱 07. Currency Converter (07-Currency-converter-react)
-Description: A dynamic exchange rate tracking platform utilizing third-party REST endpoints. Features dynamic country flag API matching and asynchronous dropdown option synchronization.
-
-Tech Stack: React.js, Fetch API, Exchange Rate API
-
-📝 08. Todo Application (08-Todo-app-react)
+📝 07. Todo Application (08-Todo-app-react)
 Description: A clean productivity application engineered to master controlled input states, conditional structural rendering, array manipulation methods, and local storage data synchronization.
-
 Tech Stack: React.js, React Hooks, LocalStorage
 
 📫 Connect with Me
 Mobile: +91 9203635737
-
 LinkedIn: linkedin.com/in/siddharth-johare
-
 Email: siddharth.johare45@gmail.com
 
 "Learning every day, building every day."
