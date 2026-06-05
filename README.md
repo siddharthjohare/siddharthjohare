@@ -6,29 +6,79 @@ An aspiring **Frontend & React.js Developer** based in Pune, passionate about bu
 
 ### 🛠️ Tech Stack & Skills
 
-- **Languages:** JavaScript (ES6+), HTML5, CSS3
-- **Frameworks & Libraries:** React.js, Bootstrap, Tailwind CSS
-- **Tools & Platforms:** Git, GitHub, VS Code, Vercel, Netlify
-- **Core Concepts:** API Integration (Async/Await), State Management (React Hooks), CRUD Operations, DOM Manipulation, Event Handling
+* **Languages:** JavaScript (ES6+), HTML5, CSS3
+* **Frameworks & Libraries:** React.js, Bootstrap, Tailwind CSS
+* **Tools & Platforms:** Git, GitHub, VS Code, Vercel, Netlify
+* **Core Concepts:** API Integration (Async/Await), State Management (React Hooks), CRUD Operations, DOM Manipulation, Event Handling
 
 ---
 
-### 🚀 My Top Featured Projects
+### 📁 Repository Folder Structure
 
-Here are the key applications I have developed, focusing on clean folder structures and learning both Vanilla JS logic and React implementations:
+I maintain a strictly organized workspace to ensure scalable code architecture. The local and remote structure is split systematically:
 
-1. **💻 CRUD Dashboard (React):** A full dashboard featuring Create, Read, Update, and Delete operations integrated seamlessly using Axios and MockAPI.
-2. 🛍️ **Myntra E-commerce Clone (HTML/CSS/JS):** A highly responsive frontend clone of Myntra with fully functional product layout, dynamic item cards, and shopping bag badge counter logic using core JavaScript. | 
-[👉 Live Preview](https://myntra-clone-js-sandy.vercel.app)
-3. **🌤️ Weather Insight App (JS & React):** A live weather tracking app using external APIs (wttr.in) with asynchronous fetch calls, featuring a dark mode toggle and robust error handling.
-4. **💱 Currency Converter (JS & React):** A dynamic exchange rate application featuring dynamic flag API integration and real-time dropdown synchronization.
-5. **📝 Todo Application (JS & React):** A classic task management app focused on mastering local storage persistence, state updates, and clean component structures.
+```text
+My-Portfolio/
+├── 1-JavaScript Projects/
+│   ├── 01-myntra-clone-js/
+│   ├── 02-bat-ball-game-js/
+│   └── 03-weather-app-js/
+└── 2-React.JS Projects/
+    ├── 04-Weather-app-react/
+    ├── 05-CRUD-operations/
+    ├── 06-student-dashboard-react/
+    ├── 07-Todo-app-react/
 
----
+🚀 Featured Portfolio Projects
 
-### 📫 Connect with Me
-- **Mobile:** +91 8109635737
-- **LinkedIn:** [linkedin.com/in/siddharth-johare](https://www.linkedin.com/in/siddharth-johare-914b5665/)
-- **Email:** siddharth.johare45@gmail.com 
+📝 1-JavaScript Projects (Core Logic Architectural Patterns)
 
-*“Learning every day, building every day.”*
+🛍️ 01. Myntra E-commerce Clone (01-myntra-clone-js)
+Description: A highly responsive frontend clone of Myntra featuring a fully functional product layout, dynamic item cards, and a shopping bag badge counter logic built using core JavaScript DOM manipulation.
+Tech Stack: HTML5, CSS3, JavaScript (ES6+)
+Live Demo: 👉 Live Preview
+
+🏏 02. Bat Ball Stump Game (02-bat-ball-game-js)
+Description: An interactive, logic-driven cricket game built to master native JavaScript condition-handling algorithms, random choice logic, and client-side storage persistence.
+
+Tech Stack: HTML5, CSS3, Core JavaScript, LocalStorage
+
+🌦️ 03. Weather App - JS Version (03-weather-app-js)
+Description: A live weather tracking application built around handling external APIs, utilizing asynchronous network requests to fetch and format real-time environmental data.
+
+Tech Stack: HTML5, CSS3, JavaScript (Async/Await), wttr.in API
+
+⚛️ 2-React.JS Projects (Modern Declarative UI Architecture)
+🌦️ 04. Weather App - React Version (04-Weather-app-react)
+Description: Re-architected the vanilla JavaScript weather application into a modular, component-based React framework. Implemented optimized hooks management, robust error boundaries, and a dark mode toggle state.
+
+Tech Stack: React.js, Functional Components, Hooks (useState, useEffect)
+
+💻 05. CRUD Operations Dashboard (05-CRUD-operations)
+Description: A centralized data entry management panel executing seamless Create, Read, Update, and Delete operations synced securely with a remote data network.
+
+Tech Stack: React.js, Axios, MockAPI
+
+🎓 06. Student Dashboard (06-student-dashboard-react)
+Description: An administrative record tracking dashboard implementing advanced conditional state operations, structural form validation, data mapping, and custom component abstractions.
+
+Tech Stack: React.js, Custom State Management, CSS Layouts
+
+💱 07. Currency Converter (07-Currency-converter-react)
+Description: A dynamic exchange rate tracking platform utilizing third-party REST endpoints. Features dynamic country flag API matching and asynchronous dropdown option synchronization.
+
+Tech Stack: React.js, Fetch API, Exchange Rate API
+
+📝 08. Todo Application (08-Todo-app-react)
+Description: A clean productivity application engineered to master controlled input states, conditional structural rendering, array manipulation methods, and local storage data synchronization.
+
+Tech Stack: React.js, React Hooks, LocalStorage
+
+📫 Connect with Me
+Mobile: +91 9203635737
+
+LinkedIn: linkedin.com/in/siddharth-johare
+
+Email: siddharth.johare45@gmail.com
+
+"Learning every day, building every day."
