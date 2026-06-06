@@ -87,6 +87,5 @@ My-Portfolio/
     ├── 04-Weather-app-react/
     ├── 05-CRUD-operations/
     ├── 06-student-dashboard-react/
-    ├── 07-Currency-converter-react/
-    └── 08-Todo-app-react/
+    ├── 07-Todo-app-react/
 ---
