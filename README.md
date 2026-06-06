@@ -29,7 +29,7 @@ Description: A highly responsive frontend clone of Myntra featuring a fully func
 2. **🏏  Bat Ball Stump Game - JS Version ((02-bat-ball-game-js):** 
 Description: An interactive, logic-driven cricket game built to master native JavaScript condition-handling algorithms, random choice logic, and client-side storage persistence.
 
- Tech Stack: HTML5, CSS3, Core JavaScript, LocalStorage👉 **[Click Here to Play the Game]([(https://02-bat-ball-game-js.vercel.app/])**
+ Tech Stack: HTML5, CSS3, Core JavaScript, LocalStorage 👉 **[Click Here to Play the Game](https://02-bat-ball-game-js.vercel.app/)**
 
 3. **🌦️  Weather App - JS Version (03-weather-app-js):** 
 Description: A live weather tracking application built around handling external APIs, utilizing asynchronous network requests to fetch and format real-time environmental data.
