@@ -61,7 +61,7 @@ Description: An administrative record tracking dashboard implementing advanced c
  07. **📝 Todo Application (07-Todo-app-react):**
 Description: A clean productivity application engineered to master controlled input states, conditional structural rendering, array manipulation methods, and local storage data synchronization.
 
- **Tech Stack:** React.js, React Hooks, LocalStorage
+ **Tech Stack:** React.js, React Hooks, LocalStorage 👉 **[Click Here to View Live Todo Engine Dashboard](https://07-todo-app-react.vercel.app/)**
 
 ---
 
