@@ -46,7 +46,7 @@ Description: A live weather tracking application built around handling external 
 04. **🌦️ Weather App - React Version  (04-Weather-app-react):**
 Description: Re-architected the vanilla JavaScript weather application into a modular, component-based React framework. Implemented optimized hooks management, robust error boundaries, and a dark mode toggle state.
 
- Tech Stack: React.js, Functional Components, Hooks (useState, useEffect)
+ Tech Stack: React.js, Functional Components, Hooks (useState, useEffect) 👉 **[Click Here to View Live Weather Dashboard](https://04-weather-app-react.vercel.app/)**
 
 05. **💻 CRUD Operations Dashboard  (05-CRUD-operations):**
 Description: A centralized data entry management panel executing seamless Create, Read, Update, and Delete operations synced securely with a remote data network.
