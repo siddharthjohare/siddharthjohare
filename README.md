@@ -51,7 +51,7 @@ Description: Re-architected the vanilla JavaScript weather application into a mo
 05. **💻 CRUD Operations Dashboard  (05-CRUD-operations):**
 Description: A centralized data entry management panel executing seamless Create, Read, Update, and Delete operations synced securely with a remote data network.
 
- Tech Stack: React.js, Axios, MockAPI
+ Tech Stack: React.js, Axios, MockAPI 👉 **[Click Here to View Live CRUD Dashboard](https://05-crud-operations.vercel.app/)**
 
  06. **🎓 Student Dashboard  (06-student-dashboard-react):**
 Description: An administrative record tracking dashboard implementing advanced conditional state operations, structural form validation, data mapping, and custom component abstractions.
