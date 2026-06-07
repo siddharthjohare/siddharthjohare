@@ -34,7 +34,7 @@ Description: An interactive, logic-driven cricket game built to master native Ja
 3. **🌦️  Weather App - JS Version (03-weather-app-js):** 
 Description: A live weather tracking application built around handling external APIs, utilizing asynchronous network requests to fetch and format real-time environmental data.
 
- Tech Stack: HTML5, CSS3, JavaScript (Async/Await), wttr.in API
+ Tech Stack: HTML5, CSS3, JavaScript (Async/Await), wttr.in API 👉 **[Click Here to View Live Weather](https://03-weather-app-js.vercel.app/)**
 
 
 
