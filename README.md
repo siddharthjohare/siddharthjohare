@@ -24,7 +24,7 @@ I enjoy building responsive web applications and continuously improving my front
 • Vercel
 - **Core Concepts:**
 • React Components
-• State Management/React Hooks (useState, useEffect)
+• React Hooks (useState, useEffect)
 • REST API Integration (Async/Await)
 • CRUD Operations
 • DOM Manipulation
