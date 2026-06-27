@@ -9,10 +9,28 @@ I enjoy building responsive web applications and continuously improving my front
 
 ### 🛠️ Tech Stack & Skills
 
-- **Languages:** JavaScript (ES6+), HTML5, CSS3
-- **Frameworks & Libraries:** React.js, Bootstrap
-- **Tools & Platforms:** Git, GitHub, VS Code, Vercel, Netlify
-- **Core Concepts:** API Integration (Async/Await), State Management (React Hooks), CRUD Operations, DOM Manipulation, Event Handling
+- **Languages:** 
+• JavaScript (ES6+)
+• HTML5
+• CSS3
+- **Frameworks & Libraries:**
+• React.js
+• Bootstrap
+- **Tools & Platforms:**
+• Git
+• GitHub
+• VS Code
+• NPM
+• Vercel
+- **Core Concepts:**
+• React Components
+• State Management/React Hooks (useState, useEffect)
+• REST API Integration (Async/Await)
+• CRUD Operations
+• DOM Manipulation
+• Event Handling
+• LocalStorage
+• Responsive Web Design  State Management (React Hooks),
 
 ---
 
@@ -20,9 +38,7 @@ I enjoy building responsive web applications and continuously improving my front
 
 Here are the key applications I have developed, focusing on clean folder structures and learning both Vanilla JS logic and React implementations:
 
-
-1. **📝  JavaScript Projects (Core Logic Architectural Patterns):**
-
+ **📝  JavaScript Projects (Core Logic Architectural Patterns):**
 
 1. **🛍️  Myntra E-commerce Clone - JS Version (01-myntra-clone-js):**
 Description: A highly responsive frontend clone of Myntra featuring a fully functional product layout, dynamic item cards, and a shopping bag badge counter logic built using core JavaScript DOM manipulation.
@@ -41,9 +57,7 @@ Description: A live weather tracking application built around handling external 
 
 
 
-
 **2-⚛️ React.JS Projects (Modern Declarative UI Architecture):**
-
 
 
 04. **🌦️ Weather App - React Version  (04-Weather-app-react):**
