@@ -1,13 +1,16 @@
-# Hi, I'm Siddharth Johare! 👋 
 
-An aspiring **Frontend & React.js Developer** based in Pune, passionate about building clean, responsive, and user-friendly web applications. I love converting complex logic into simple, interactive user interfaces and switching gears into the IT industry with strong core skills.
+# Hi, I'm Siddharth Johare 👋
+
+**Frontend Developer** with 8 years of total professional experience, including 4 years in technical and software-related roles. Currently transitioning into Frontend Development with hands-on experience in JavaScript (ES6+), React.js, HTML5, CSS3, Bootstrap, REST API integration, and Git through personal projects.
+
+I enjoy building responsive web applications and continuously improving my frontend development skills by creating real-world projects.
 
 ---
 
 ### 🛠️ Tech Stack & Skills
 
 - **Languages:** JavaScript (ES6+), HTML5, CSS3
-- **Frameworks & Libraries:** React.js, Bootstrap, Tailwind CSS
+- **Frameworks & Libraries:** React.js, Bootstrap
 - **Tools & Platforms:** Git, GitHub, VS Code, Vercel, Netlify
 - **Core Concepts:** API Integration (Async/Await), State Management (React Hooks), CRUD Operations, DOM Manipulation, Event Handling
 
