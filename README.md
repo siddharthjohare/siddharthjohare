@@ -68,7 +68,6 @@ A React CRUD application built using **Axios** and **MockAPI**. Supports **Creat
 * MockAPI
 * React Hooks (useState, useEffect)
 
-🔗 **Live Demo:** https://05-crud-operations.vercel.app/
 ### 🔗 Links
 
 🚀 **[Live Demo](https://05-crud-operations.vercel.app/)**
@@ -90,7 +89,11 @@ A weather application built using React functional components and Hooks. Fetches
 * Functional Components
 * React Hooks (useState, useEffect)
 
-🔗 **Live Demo:** https://04-weather-app-react.vercel.app/
+### 🔗 Links
+
+🚀 **[Live Demo](https://04-weather-app-react.vercel.app/)**
+
+💻 **[Source Code](https://github.com/siddharthjohare/04-Weather-app-react)**
 
 ---
 
@@ -106,7 +109,11 @@ An interactive JavaScript game demonstrating conditional logic, DOM manipulation
 * JavaScript
 * LocalStorage
 
-🔗 **Live Demo:** https://02-bat-ball-game-js.vercel.app/
+### 🔗 Links
+
+🚀 **[Live Demo](https://02-bat-ball-game-js.vercel.app/)**
+
+💻 **[Source Code](https://github.com/siddharthjohare/02-bat-ball-game-js)**
 
 ---
 
@@ -123,7 +130,11 @@ Responsive frontend clone of Myntra built using HTML, CSS, and JavaScript with d
 * CSS3
 * JavaScript
 
-🔗 **Live Demo:** https://myntra-clone-js-sandy.vercel.app/
+### 🔗 Links
+
+🚀 **[Live Demo](https://myntra-clone-js-sandy.vercel.app/)**
+
+💻 **[Source Code](https://github.com/siddharthjohare/01-myntra-clone-js)**
 
 ---
 
@@ -140,7 +151,11 @@ A weather application that fetches real-time weather information using Async/Awa
 * Async/Await
 * wttr.in API
 
-🔗 **Live Demo:** https://03-weather-app-js.vercel.app/
+### 🔗 Links
+
+🚀 **[Live Demo](https://03-weather-app-js.vercel.app/)**
+
+💻 **[Source Code](https://github.com/siddharthjohare/03-weather-app-js)**
 
 ---
 
@@ -155,7 +170,11 @@ Student management dashboard built using React components, Hooks, forms, and res
 * React Hooks
 * CSS
 
-🔗 **Live Demo:** https://06-student-dashboard-react.vercel.app/
+### 🔗 Links
+
+🚀 **[Live Demo](https://06-student-dashboard-react.vercel.app/)**
+
+💻 **[Source Code](https://github.com/siddharthjohare/06-Student-Dashboard-react)**
 
 ---
 
@@ -170,7 +189,11 @@ Todo application built using React Hooks and LocalStorage. Supports adding, dele
 * React Hooks
 * LocalStorage
 
-🔗 **Live Demo:** https://07-todo-app-react.vercel.app/
+### 🔗 Links
+
+🚀 **[Live Demo](https://07-todo-app-react.vercel.app/)**
+
+💻 **[Source Code](https://github.com/siddharthjohare/07-Todo-app-react)**
 
 ---
 
