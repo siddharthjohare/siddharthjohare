@@ -1,9 +1,9 @@
 
 # Hi, I'm Siddharth Johare 👋
 
-**Frontend Developer** with 8 years of total professional experience, including 4 years in technical and software-related roles. Currently transitioning into Frontend Development with hands-on experience in JavaScript (ES6+), React.js, HTML5, CSS3, Bootstrap, REST API integration, and Git through personal projects.
+**Frontend Developer** with **8 years** of total professional experience, including **4 years** in technical and software-related roles. Currently transitioning into Frontend Development with a strong foundation in JavaScript (ES6+), React.js, HTML5, CSS3, Bootstrap, REST API integration, and Git, supported by hands-on projects and continuous learning.
 
-I enjoy building responsive web applications and continuously improving my frontend development skills by creating real-world projects.
+Passionate about building responsive and user-friendly web applications while continuously improving frontend development skills through real-world projects.
 
 ---
 
@@ -25,20 +25,38 @@ I enjoy building responsive web applications and continuously improving my front
 - **Core Concepts:**
 • React Components
 • React Hooks (useState, useEffect)
-• REST API Integration (Async/Await)
+• REST API Integration (Fetch API, Async/Await, Axios)
 • CRUD Operations
 • DOM Manipulation
 • Event Handling
 • LocalStorage
-• Responsive Web Design  State Management (React Hooks),
+• Responsive Web Design
 
 ---
 
 ### 🚀 My Top Featured Projects
 
-Here are the key applications I have developed, focusing on clean folder structures and learning both Vanilla JS logic and React implementations:
+These projects demonstrate my learning journey in JavaScript and React.js through practical, real-world applications.
 
- **📝  JavaScript Projects (Core Logic Architectural Patterns):**
+**⭐ Featured Projects**
+
+1.**💻 CRUD Operations Dashboard (React.js)**
+**Description:**
+A React CRUD application built using Axios and MockAPI. Supports Create, Read, Update, and Delete operations using React Hooks with REST API integration.
+
+**Tech Stack:**
+React.js • Axios • MockAPI • React Hooks
+👉 **[Click Here to View Live CRUD Dashboard](https://01-crud-operations.vercel.app/)**
+
+
+2.**🌦️ Weather App (React.js)**
+**Description:**
+A weather application built using React functional components and Hooks. Fetches real-time weather data using REST APIs and displays it with a responsive user interface.
+
+**Tech Stack:**
+React.js • JavaScript • REST API • useState • useEffect
+👉 **[Click Here to View Live Weather Dashboard](https://02-weather-app-react.vercel.app/)**
+
 
 1. **🛍️  Myntra E-commerce Clone - JS Version (01-myntra-clone-js):**
 Description: A highly responsive frontend clone of Myntra featuring a fully functional product layout, dynamic item cards, and a shopping bag badge counter logic built using core JavaScript DOM manipulation.
@@ -63,12 +81,9 @@ Description: A live weather tracking application built around handling external 
 04. **🌦️ Weather App - React Version  (04-Weather-app-react):**
 Description: Re-architected the vanilla JavaScript weather application into a modular, component-based React framework. Implemented optimized hooks management, robust error boundaries, and a dark mode toggle state.
 
- **Tech Stack:** React.js, Functional Components, Hooks (useState, useEffect) 👉 **[Click Here to View Live Weather Dashboard](https://04-weather-app-react.vercel.app/)**
+ **Tech Stack:** React.js, Functional Components, Hooks (useState, useEffect) 
 
-05. **💻 CRUD Operations Dashboard  (05-CRUD-operations):**
-Description: A centralized data entry management panel executing seamless Create, Read, Update, and Delete operations synced securely with a remote data network.
 
- **Tech Stack:** React.js, Axios, MockAPI 👉 **[Click Here to View Live CRUD Dashboard](https://05-crud-operations.vercel.app/)**
 
  06. **🎓 Student Dashboard  (06-student-dashboard-react):**
 Description: An administrative record tracking dashboard implementing advanced conditional state operations, structural form validation, data mapping, and custom component abstractions.
