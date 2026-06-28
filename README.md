@@ -46,7 +46,7 @@ A React CRUD application built using Axios and MockAPI. Supports Create, Read, U
 
 **Tech Stack:**
 React.js • Axios • MockAPI • React Hooks
-👉 **[Click Here to View Live CRUD Dashboard](https://01-crud-operations.vercel.app/)**
+👉 **[Click Here to View Live CRUD Dashboard](https://05-crud-operations.vercel.app/)**
 
 
 2.**🌦️ Weather App (React.js)**
@@ -55,7 +55,7 @@ A weather application built using React functional components and Hooks. Fetches
 
 **Tech Stack:**
 React.js • JavaScript • REST API • useState • useEffect
-👉 **[Click Here to View Live Weather Dashboard](https://02-weather-app-react.vercel.app/)**
+👉 **[Click Here to View Live Weather Dashboard](https://04-weather-app-react.vercel.app/)**
 
 
 1. **🛍️  Myntra E-commerce Clone - JS Version (01-myntra-clone-js):**
