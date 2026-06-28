@@ -1,36 +1,50 @@
 
 # Hi, I'm Siddharth Johare 👋
 
-**Frontend Developer** with **8 years** of total professional experience, including **4 years** in technical and software-related roles. Currently transitioning into Frontend Development with a strong foundation in JavaScript (ES6+), React.js, HTML5, CSS3, Bootstrap, REST API integration, and Git, supported by hands-on projects and continuous learning.
+**Frontend Developer** with **8 years** of total professional experience, including **4 years** in technical and software-related roles. Strong foundation in **JavaScript (ES6+)**, **React.js**, **HTML5**, **CSS3**, **Bootstrap**, **REST API Integration**, and **Git**, developed through **hands-on projects** and **continuous learning**.
 
-Passionate about building responsive and user-friendly web applications while continuously improving frontend development skills through real-world projects.
+Passionate about building **responsive**, **user-friendly** web applications and continuously improving **frontend development skills** by creating **real-world projects** with **modern web technologies**.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+# 🛠️ Tech Stack & Skills
 
-- **Languages:** 
-• JavaScript (ES6+)
-• HTML5
-• CSS3
-- **Frameworks & Libraries:**
-• React.js
-• Bootstrap
-- **Tools & Platforms:**
-• Git
-• GitHub
-• VS Code
-• NPM
-• Vercel
-- **Core Concepts:**
-• React Components
-• React Hooks (useState, useEffect)
-• REST API Integration (Fetch API, Async/Await, Axios)
-• CRUD Operations
-• DOM Manipulation
-• Event Handling
-• LocalStorage
-• Responsive Web Design
+## 💻 Languages
+
+* JavaScript (ES6+)
+* HTML5
+* CSS3
+
+---
+
+## ⚛️ Frameworks & Libraries
+
+* React.js
+* Bootstrap
+
+---
+
+## 🛠️ Tools
+
+* Git
+* GitHub
+* VS Code
+* NPM
+* Vercel
+
+---
+
+## 🚀 Core Skills
+
+* React Components
+* React Hooks (useState, useEffect)
+* REST API Integration (Fetch API, Async/Await, Axios)
+* CRUD Operations
+* DOM Manipulation
+* Event Handling
+* LocalStorage
+* Responsive Web Design
+
 
 ---
 
@@ -182,21 +196,6 @@ My-Portfolio/
     └── 07-Todo-app-react/
 ```
 
----
-### 📁 Repository Folder Structure
 
-I maintain a strictly organized workspace to ensure scalable code architecture. The local and remote structure is split systematically:
 
-📁 Repository Structure
-
-My-Portfolio/
-├── 1-JavaScript Projects/
-│   ├── 01-myntra-clone-js/
-│   ├── 02-bat-ball-game-js/
-│   └── 03-weather-app-js/
-└── 2-React.JS Projects/
-    ├── 04-Weather-app-react/
-    ├── 05-CRUD-operations/
-    ├── 06-student-dashboard-react/
-    ├── 07-Todo-app-react/
 
